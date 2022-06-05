@@ -1,2 +1,3 @@
 # vTuberMusicGuessDiscord
-Guessing weeb song game on discord
+### A Music Guessing Game in JDA
+Simple song guessing game in Discord using JDA Lavaplayer
